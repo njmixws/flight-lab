@@ -8,7 +8,7 @@ No AI tools were used.
 
 ## Tools used
 
-- Tool and version (e.g. ChatGPT GPT-5, Claude, GitHub Copilot):
+- Tool and version (e.g. ChatGPT GPT-5, Claude, GitHub Copilot): - Claude, Sonnet 5.5
 
 ## Conversation links
 
@@ -18,6 +18,7 @@ No AI tools were used.
 ## What I used them for
 
 - e.g. explaining argparse, debugging the date validation, generating test data
+
 
 ## Which parts of the code were AI-generated or substantially AI-assisted
 
